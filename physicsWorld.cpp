@@ -3,6 +3,11 @@
 #include "physicsWorld.hpp"
 #include <iostream>
 
+PhysicsWorld::PhysicsWorld(float t, float grav) {
+    PhysicsWorld::dt = t;
+    PhysicsWorld::gravity = grav;
+};
+
 void PhysicsWorld::addObject(Object* obj) {
     objects.push_back(obj);
 };
@@ -29,7 +34,7 @@ void PhysicsWorld::step(float dt) {
 
         // update position
         obj->position = *(obj->position + (*(*acceleration * (0.5 * dt * dt)) + (obj->velocity * dt)));
-        
+
 
         // update velo
         obj->velocity = *((obj->velocity) + (*acceleration * dt));
