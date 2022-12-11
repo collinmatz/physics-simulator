@@ -1,0 +1,27 @@
+[
+{
+  "directory": "C:/Users/Collin Matz/Desktop/Coding Projects/physics-simulator/build/cppsrc",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw32\\bin\\G__~1.EXE   -g -o CMakeFiles\\phys_sim.dir\\main.cpp.obj -c \"C:\\Users\\Collin Matz\\Desktop\\Coding Projects\\physics-simulator\\cppsrc\\main.cpp\"",
+  "file": "C:/Users/Collin Matz/Desktop/Coding Projects/physics-simulator/cppsrc/main.cpp"
+},
+{
+  "directory": "C:/Users/Collin Matz/Desktop/Coding Projects/physics-simulator/build/cppsrc",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw32\\bin\\G__~1.EXE   -g -o CMakeFiles\\phys_sim.dir\\componentBuilder.cpp.obj -c \"C:\\Users\\Collin Matz\\Desktop\\Coding Projects\\physics-simulator\\cppsrc\\componentBuilder.cpp\"",
+  "file": "C:/Users/Collin Matz/Desktop/Coding Projects/physics-simulator/cppsrc/componentBuilder.cpp"
+},
+{
+  "directory": "C:/Users/Collin Matz/Desktop/Coding Projects/physics-simulator/build/cppsrc",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw32\\bin\\G__~1.EXE   -g -o CMakeFiles\\phys_sim.dir\\components.cpp.obj -c \"C:\\Users\\Collin Matz\\Desktop\\Coding Projects\\physics-simulator\\cppsrc\\components.cpp\"",
+  "file": "C:/Users/Collin Matz/Desktop/Coding Projects/physics-simulator/cppsrc/components.cpp"
+},
+{
+  "directory": "C:/Users/Collin Matz/Desktop/Coding Projects/physics-simulator/build/cppsrc",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw32\\bin\\G__~1.EXE   -g -o CMakeFiles\\phys_sim.dir\\constructors.cpp.obj -c \"C:\\Users\\Collin Matz\\Desktop\\Coding Projects\\physics-simulator\\cppsrc\\constructors.cpp\"",
+  "file": "C:/Users/Collin Matz/Desktop/Coding Projects/physics-simulator/cppsrc/constructors.cpp"
+},
+{
+  "directory": "C:/Users/Collin Matz/Desktop/Coding Projects/physics-simulator/build/cppsrc",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw32\\bin\\G__~1.EXE   -g -o CMakeFiles\\phys_sim.dir\\physicsWorld.cpp.obj -c \"C:\\Users\\Collin Matz\\Desktop\\Coding Projects\\physics-simulator\\cppsrc\\physicsWorld.cpp\"",
+  "file": "C:/Users/Collin Matz/Desktop/Coding Projects/physics-simulator/cppsrc/physicsWorld.cpp"
+}
+]
